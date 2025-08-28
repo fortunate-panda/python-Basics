@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f5095b2-44b3-4558-b449-d27e6199e402" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/band-name-generator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string-manipulation.py" beforeDir="false" afterPath="$PROJECT_DIR$/string-manipulation.py" afterDir="false" />
-    </list>
+    <list default="true" id="8f5095b2-44b3-4558-b449-d27e6199e402" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
